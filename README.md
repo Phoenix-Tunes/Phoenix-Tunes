@@ -26,7 +26,7 @@ NB: Only download your designated version. Downloading different versions for di
 | ------- | ------------------ | -------------- |
 | 5.1.4   | :white_check_mark: | 12/02/2025     |
 | 5.0.9   | :x:                |                |
-| 4.7.x0  | :white_check_mark: | 5/09/2022      |
+| 4.7.0   | :white_check_mark: | 5/09/2022      |
 | < 4.0   | :x:                |                |
 
 
