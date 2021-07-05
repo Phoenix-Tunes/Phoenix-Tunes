@@ -6,15 +6,11 @@ Currently, this project is still under development, but these are the current re
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 2.16.9  | :white_check_mark: |
+| 2.16.5  | :x:                |
+| 1.16.0  | :white_check_mark: |
+| < 1.0   | :x:                |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If you have encountered or suspected a vulnerability, please give us feedback immediately through our Discord Community or the Dev group on Google Groups. We shall then reveiw the situation and give you a date on when to expect an update on the vulnerability and whether it shall be accepted or declined.
