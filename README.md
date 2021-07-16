@@ -1,5 +1,5 @@
 # Phoenix Tunes
-[Phoenix Tunes Discord]((https://img.shields.io/discord/789150497814478868.svg?color=7289da&label=Phoenix%20Tunes%20Discord%20server&logo=discord)](https://discord.gg/Bda75FrX2n))
+[![Phoenix Tunes Discord]((https://img.shields.io/discord/789150497814478868.svg?color=7289da&label=Phoenix%20Tunes%20Discord%20server&logo=discord)](https://discord.gg/Bda75FrX2n))
 ## Description
 Phoenix Tunes is an entertainment project developed by the Phoenix Tunes Corporation to extend entertainment to areas without Spotify or Tidal or even Deezer at a reduced price.
 For more information, check out our website located at: https://guardian327rules.wixsite.com/phoenixtunes-alpha.
