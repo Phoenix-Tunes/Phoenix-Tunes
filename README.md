@@ -4,6 +4,9 @@
  <p align="center">Vibes Every Hour, Every Day.</p>
 </p>
   <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
     <a href="https://img.shields.io/discord/789150497814478868.svg?color=7289da&label=Phoenix%20Tunes%20Discord%20server&logo=discord">
       <img src="https://img.shields.io/discord/789150497814478868.svg?color=7289da&label=Phoenix%20Tunes%20Discord%20server&logo=discord (https://discord.gg/Bda75FrX2n)" />
     </a>
