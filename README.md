@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/phoenix-tunes-corporation/image/upload/b_rgb:000000,bo_50px_solid_rgb:000,o_100,r_11,t_media_lib_thumb/v1627560654/Phoenix_Beats.2_fpkq5s.jpg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <h1 align="center">Phoenix Tunes</h1>
+ <p align="center">Vibes Every Hour, Every Day.</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -55,24 +55,9 @@
   </p>
 </p>
 
-# Features
+# Our Goal
 
-- [Exactly what you need!](#exactly-what-you-need!)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-  - [Common Options](#common-options)
-  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
-  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
-  - [Language Card Exclusive Options](#language-card-exclusive-options)
-  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
-
-# Exactly what you need!
-
-Copy-paste this into your markdown content, and that's it. Simple!
+ Our main goal is to produce a platform that allows our clients to freely stream music without any payment and is available in all regions of the world.
 
 Change the `?username=` value to your GitHub's username.
 
