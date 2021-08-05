@@ -30,48 +30,8 @@
     ·
     <a href="https://github.com/Phoenix-Tunes/Phoenix-Tunes/issues/new/choose">Request Feature</a>
   </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
 </p>
-
-# Our Goal
-
- Our main goal is to produce a platform that allows our clients to freely stream music without any payment and is available in all regions of the world.
-
-Change the `?username=` value to your GitHub's username.
-
-```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-_Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
-The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
-The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)_
-
-### Hiding individual stats
-
-To hide any specific stats, you can pass a query parameter `?hide=` with comma-separated values.
+To hide any specific sta
 
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
@@ -256,51 +216,7 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 
 You can use the `&layout=compact` option to change the card design.
 
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Demo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-- Compact layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-# Wakatime Week Stats
-
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
-
-```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Demo
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-- Compact layout
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### All Demos
-
-- Default
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-
-- Hiding specific stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
-
-- Showing icons
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+app/api?username=anuraghazra&hide=issues&show_icons=true)
 
 - Customize Border Color
 
