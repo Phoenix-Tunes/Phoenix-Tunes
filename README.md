@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/phoenix-tunes-corporation/image/upload/b_rgb:000000,bo_50px_solid_rgb:000,o_100,r_11,t_media_lib_thumb/v1627560654/Phoenix_Beats.2_fpkq5s.jpg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/phoenix-tunes-corporation/image/upload/b_rgb:000000,bo_50px_solid_rgb:000,o_100,r_11,t_media_lib_thumb/v1627560654/Phoenix_Beats.2_fpkq5s.jpg" align="center" alt="Phoenix Tunes" />
  <h1 align="center">Phoenix Tunes</h1>
  <p align="center">Vibes Every Hour, Every Day.</p>
 </p>
@@ -24,8 +24,6 @@
   </p>
 
   <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
     <a href="https://github.com/Phoenix-Tunes/Phoenix-Tunes/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/Phoenix-Tunes/Phoenix-Tunes/issues/new/choose">Request Feature</a>
@@ -43,9 +41,7 @@ To hide any specific sta
 
 You can add the count of all your private contributions to the total commits count by using the query parameter `?count_private=true`.
 
-_Note: If you are deploying this project yourself, the private contributions will be counted by default otherwise you need to chose to share your private contribution counts._
-
-> Options: `&count_private=true`
+_Note: If you are deploying this project yourself, the private contributions w
 
 ```md
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
