@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Open Source | Phoenix Tunes
 
 You can use the [editor on GitHub](https://github.com/Phoenix-Tunes/Phoenix-Tunes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
