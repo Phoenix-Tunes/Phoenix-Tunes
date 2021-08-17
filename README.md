@@ -33,9 +33,7 @@ To hide any specific sta
 
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contrib
-```
+
 
 ### Adding private contributions count to total commits count
 
