@@ -1,2 +1,0 @@
-- name: discord-webhook
-  uses: johnnyhuy/actions-discord-git-webhook@v0.0.1
